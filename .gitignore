@@ -1,0 +1,35 @@
+# Gmail Inbox Organizer
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Credentials and tokens
+credentials.json
+token.json
+*.token
+
+# Output files
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
